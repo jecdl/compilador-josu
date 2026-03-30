@@ -1,0 +1,9 @@
+nombre = "Josu"
+print nombre
+edad = 20
+edad = edad + 5
+print edad
+mensaje = "Resultado de la suma:"
+print mensaje
+x = 10 * 2
+print x
